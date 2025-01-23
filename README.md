@@ -9,10 +9,14 @@
 | 4 | 가변저항, RGB LED | 가변저항 Analog 0~1300 까지는 Red LED On 가변저항 Analog 1300~2600 까지는 Green LED On 가변저항 Analog 2600~4095 까지는 Blue LED On SW2 눌렀다 떼면, RGB 모두 Off | 
 
 
+### 입출력 장치 제어 
+//
+
+
 ---
 ### Hardware
 - ShieldBuddy TC275
 
 ### Software
-- Aurix Development Studio(IDE)
-- Matlab 
+- BSW: Aurix Development Studio(IDE)
+- ASW: Matlab Simulink
